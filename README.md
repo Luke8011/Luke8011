@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Luke8011
+- 👋 Hi, I’m Luke Lassiter.
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on any kind of side projects. 
+- 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me lukelassiter52@gmail.com
 
 <!---
